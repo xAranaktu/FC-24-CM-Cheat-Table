@@ -1,0 +1,8 @@
+v24.1.0.1:
+    - Added "Playstyles" & "Playstyles+" to player editor.
+    - Fixed "Job Offers" script
+    - Fixed "Gameplay" script
+    - Fixed edited attributes reset in manager career mode after training session
+
+v24.1.0.0:
+    - First working version
