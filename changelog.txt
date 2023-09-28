@@ -1,3 +1,14 @@
+v24.1.0.2:
+    - Added "Play As Player":
+        - Finances
+            - Wage
+            - Funds
+        - Reputation
+            - Manager Reputation
+            - Squad Role
+        - 999 Skill Points
+    - Fixed crash at beginning of second half caused by Gameplay script.
+
 v24.1.0.1:
     - Added "Playstyles" & "Playstyles+" to player editor.
     - Fixed "Job Offers" script
