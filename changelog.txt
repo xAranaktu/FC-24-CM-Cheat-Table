@@ -1,3 +1,9 @@
+v24.1.0.4:
+    - Fixed Editing player release clause
+    - Fixed "Allow Loan approach" script
+    - Fixed "export_season_stats.lua" script
+    - Added "Nation Reputation" to "Play As Player"
+
 v24.1.0.3:
     - Fixed pointer for "Transfer Budget"
     - Fixed all scripts under "Youth Academy"
