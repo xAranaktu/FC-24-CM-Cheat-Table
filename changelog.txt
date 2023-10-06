@@ -1,3 +1,8 @@
+v24.1.0.5:
+    - Added to "Non-CM Related":
+        - "Free Fly Camera"
+        - "Game Settings" -> "Camera"
+
 v24.1.0.4:
     - Fixed Editing player release clause
     - Fixed "Allow Loan approach" script
