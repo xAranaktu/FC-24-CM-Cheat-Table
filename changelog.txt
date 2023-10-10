@@ -1,3 +1,9 @@
+v24.1.0.6:
+    - Added to "Play As Player":
+        - Personality:
+            - Unlock All Slots for Playstyles
+            - Pointers for Maverick, Heartbeat and Virtuoso
+
 v24.1.0.5:
     - Added to "Non-CM Related":
         - "Free Fly Camera"
