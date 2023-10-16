@@ -1,3 +1,12 @@
+v24.1.0.8:
+    - Updated bodytypecodes
+    - Updated list of base fut players, so you can copy more cards (female cards especially)
+    - Removed "COPY ERROR" if player is not found in base fut players file. Now only attributes from card will be copied leaving everything else unchanged.
+    - Fixed "Clone -> My Career" in player editor
+
+v24.1.0.7:
+    - Added "Coaches"
+
 v24.1.0.6:
     - Added to "Play As Player":
         - Personality:
