@@ -1,3 +1,8 @@
+v24.1.0.9:
+    - Added "Play As Player" -> "Agent" -> "Objectives Bypass"
+    - Added "Far Side Focus", "Ball Tracking Speed" & "Penalty Area Zoom" to "Game Settings" -> "Camera"
+    - Fixed "Pro Camera Zoom", "Pro Camera Speed" & "Pro Camera Swing" in "Game Settings" -> "Camera"
+
 v24.1.0.8:
     - Updated bodytypecodes
     - Updated list of base fut players, so you can copy more cards (female cards especially)
