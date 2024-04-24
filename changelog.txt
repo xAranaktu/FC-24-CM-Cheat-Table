@@ -1,3 +1,7 @@
+v24.1.1.0:
+    - Fixed "Play As Player" -> "Agent" -> "Objectives Bypass"
+    - Fixed "Gameplay" -> "Unlimited Substitutions (USER)"
+
 v24.1.0.9:
     - Added "Play As Player" -> "Agent" -> "Objectives Bypass"
     - Added "Far Side Focus", "Ball Tracking Speed" & "Penalty Area Zoom" to "Game Settings" -> "Camera"
