@@ -1,3 +1,6 @@
+v24.1.1.1:
+    - Fixed "Gameplay" -> "Unlimited Substitutions (USER)" (reverted to state from v24.1.0.9)
+
 v24.1.1.0:
     - Fixed "Play As Player" -> "Agent" -> "Objectives Bypass"
     - Fixed "Gameplay" -> "Unlimited Substitutions (USER)"
