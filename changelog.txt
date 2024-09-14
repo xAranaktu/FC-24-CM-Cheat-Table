@@ -1,6 +1,3 @@
-v24.1.1.4:
-    - Fixed "Gameplay" -> "Unlimited Substitutions (USER)"
-
 v24.1.1.3:
     - Fixed scripts in "Youth Academy" section
 
